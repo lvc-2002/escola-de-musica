@@ -7,6 +7,9 @@
 # Arquivos de projeto
 *.metadata
 *RemoteSystemsTempFiles
+*.classpath
+*.project
+*.settings
 
 # BlueJ files
 *.ctxt
@@ -26,4 +29,5 @@
 hs_err_pid*
 
 # Repositório
-*/.gitignore
+.gitignore
+.recommenders
